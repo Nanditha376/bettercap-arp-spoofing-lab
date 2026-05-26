@@ -84,21 +84,6 @@ arp -a
 
 ---
 
-## Screenshots
-
-### Interface Configuration
-![Interface](screenshots/interface.png)
-
-### Bettercap Running
-![Bettercap](screenshots/bettercap.png)
-
-### ARP Spoofing
-![ARP Spoof](screenshots/arp-spoof.png)
-
-### Wireshark Capture
-![Wireshark](screenshots/wireshark.png)
-
----
 
 ## Packet Analysis
 
